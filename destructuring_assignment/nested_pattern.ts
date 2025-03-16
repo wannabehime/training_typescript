@@ -6,10 +6,10 @@ const nested = {
   },
 };
 
-const {
-  num,
-  obj: { foo },
-} = nested;
+// const {
+//   num,
+//   obj: { foo },
+// } = nested;
 
 const arr = [1, 2, 4, 8, 16, 32]
 
